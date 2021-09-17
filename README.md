@@ -8,15 +8,13 @@ A collection of interesting Image(video)-based AI programs.
 > It was programmed mainly for the camera. 
 
 ### Face
-<img src="/home/ruyi/mediapipe/result/face_mesh/Selection_147.png" width="450px" height="300px" title="face_mesh" alt="IU"></img><br/>
-<img src="/home/ruyi/mediapipe/result/face_mesh/Selection_148.png" width="450px" height="300px" title="face_mesh" alt="IU"></img><br/>
+
 
 ### Pose
-<img src="/home/ruyi/Pictures/Selection_147.png" width="450px" height="300px" title="model" alt="Human"></img><br/>
-<img src="/home/ruyi/Pictures/Selection_149.png" width="450px" height="300px" title="long_leg" alt="Human"></img><br/>
+
 
 ### BeautyGAN
-<img src="/home/ruyi/BeautyGAN/result/result_suji_kor.jpg" width="450px" height="300px" title="makeup" alt="SUJI"></img><br/>
+
 
 
 
