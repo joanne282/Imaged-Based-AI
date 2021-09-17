@@ -12,6 +12,11 @@ A collection of interesting Image(video)-based AI programs.
 
 ### Pose
 
+<img src="https://user-images.githubusercontent.com/30684946/133716885-2909f72f-3f0b-4bbb-8928-1741e29cf940.png" width="40.1%"><img src="https://user-images.githubusercontent.com/30684946/133716914-aad43830-613b-41ba-a67b-7524aa0e997a.png" width="40%">
+
+
+<img src="https://user-images.githubusercontent.com/30684946/133716933-11700b13-365e-4430-9846-4ff8fc6773ff.png" width="49%"><img src="https://user-images.githubusercontent.com/30684946/133716959-27dc02b4-c366-4889-ab3d-40b7be1a48c6.png" width="40%">
+
 
 ### BeautyGAN
 
