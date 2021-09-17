@@ -3,9 +3,9 @@ Image-Based-AI
 
 A collection of interesting Image(video)-based AI programs.
 
-> This is a collection of interesting program implementations based on images.
-> It is a collection of variations of each algorithm.
-> It was programmed mainly for the camera. 
+- This is a collection of interesting program implementations based on images.
+- It is a collection of variations of each algorithm.
+- It was programmed mainly for the camera. 
 
 ### Face
 
